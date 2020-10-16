@@ -4,4 +4,4 @@ The idea here is to make a program that will calculate the irrational number Pi 
 
 From Wikipedia:
 
-> `[Pi]` is defined as the ratio of a circle's circumference to its diameter, and it also has various equivalent definitions.
+> \[Pi\] is defined as the ratio of a circle's circumference to its diameter, and it also has various equivalent definitions.
