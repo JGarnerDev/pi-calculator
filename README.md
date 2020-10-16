@@ -6,7 +6,7 @@ From Wikipedia:
 
 > \[Pi\] is defined as the ratio of a circle's circumference to its diameter, and it also has various equivalent definitions.
 
-As such, it becomes useful to see what definitions exist out there to measure the comparitive efficiency when using JavaScript for the purpose.
+As such, it becomes useful to see what definitions exist out there to measure the comparitive efficiency when using JavaScript for the purpose. This comparison and additional testing will be done with Jest's testing library.
 
 Furthermore, the idea is also to make this program accessible via HTML and CSS. The following are intended features in their order of priority:
 
